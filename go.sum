@@ -1,2 +1,4 @@
 github.com/GeertJohan/go.linenoise v0.0.0-20141120151038-1918ff89d613 h1:6icnpgpfaYbNFPvsZHrIPhUqNbubaeikWdpMdj40kp0=
 github.com/GeertJohan/go.linenoise v0.0.0-20141120151038-1918ff89d613/go.mod h1:hjDAY2N/A6k4IInagcBqLG/q8SyECV6TDzEu5dY0Mwg=
+github.com/lib/pq v1.10.9 h1:YXG7RB+JIjhP29X+OtkiDnYaXQwpS4JEWq7dtCCRUEw=
+github.com/lib/pq v1.10.9/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
